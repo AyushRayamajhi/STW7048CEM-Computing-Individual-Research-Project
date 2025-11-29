@@ -1,0 +1,574 @@
+{
+  "teams": {
+    "bayern": {
+      "name": "Bayern Munich",
+      "season": {
+        "Goals": 0.44,
+        "Expected Goals (xG)": 0.65,
+        "Total Shots": 0.39,
+        "Shots on Target": 0.31,
+        "Possession %": 0.72,
+        "Pass Accuracy": 0.78
+      },
+      "matches": {
+        "1": {
+          "Goals": 0.65,
+          "Expected Goals (xG)": 0.72,
+          "Total Shots": 0.44,
+          "Shots on Target": 0.2,
+          "Possession %": 0.9,
+          "Pass Accuracy": 0.95
+        },
+        "2": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.78,
+          "Total Shots": 0.38,
+          "Shots on Target": 0.29,
+          "Possession %": 0.68,
+          "Pass Accuracy": 0.76
+        },
+        "3": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.62,
+          "Total Shots": 0.63,
+          "Shots on Target": 0.17,
+          "Possession %": 0.77,
+          "Pass Accuracy": 0.75
+        },
+        "4": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.72,
+          "Total Shots": 0.35,
+          "Shots on Target": 0.52,
+          "Possession %": 0.57,
+          "Pass Accuracy": 0.7
+        },
+        "5": {
+          "Goals": 0.95,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.51,
+          "Shots on Target": 0.09,
+          "Possession %": 0.72,
+          "Pass Accuracy": 0.7
+        },
+        "6": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.53,
+          "Total Shots": 0.39,
+          "Shots on Target": 0.29,
+          "Possession %": 0.79,
+          "Pass Accuracy": 0.69
+        },
+        "7": {
+          "Goals": 0.65,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.13,
+          "Shots on Target": 0.33,
+          "Possession %": 0.5,
+          "Pass Accuracy": 0.82
+        },
+        "8": {
+          "Goals": 0.65,
+          "Expected Goals (xG)": 0.64,
+          "Total Shots": 0.33,
+          "Shots on Target": 0.4,
+          "Possession %": 0.9,
+          "Pass Accuracy": 0.82
+        },
+        "9": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.85,
+          "Total Shots": 0.33,
+          "Shots on Target": 0.17,
+          "Possession %": 0.81,
+          "Pass Accuracy": 0.82
+        },
+        "10": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.56,
+          "Total Shots": 0.4,
+          "Shots on Target": 0.46,
+          "Possession %": 0.77,
+          "Pass Accuracy": 0.82
+        },
+        "11": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.79,
+          "Total Shots": 0.31,
+          "Shots on Target": 0.1,
+          "Possession %": 0.32,
+          "Pass Accuracy": 0.56
+        },
+        "12": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.69,
+          "Total Shots": 0.38,
+          "Shots on Target": 0.14,
+          "Possession %": 0.7,
+          "Pass Accuracy": 0.83
+        },
+        "13": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.69,
+          "Total Shots": 0.44,
+          "Shots on Target": 0.07,
+          "Possession %": 0.9,
+          "Pass Accuracy": 0.88
+        },
+        "14": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.64,
+          "Total Shots": 0.69,
+          "Shots on Target": 0.42,
+          "Possession %": 0.72,
+          "Pass Accuracy": 0.82
+        },
+        "15": {
+          "Goals": 0.05,
+          "Expected Goals (xG)": 0.43,
+          "Total Shots": 0.6,
+          "Shots on Target": 0.18,
+          "Possession %": 0.84,
+          "Pass Accuracy": 0.84
+        },
+        "16": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.4,
+          "Total Shots": 0.36,
+          "Shots on Target": 0.33,
+          "Possession %": 0.7,
+          "Pass Accuracy": 0.69
+        },
+        "17": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.78,
+          "Total Shots": 0.65,
+          "Shots on Target": 0.18,
+          "Possession %": 0.93,
+          "Pass Accuracy": 0.89
+        },
+        "18": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.77,
+          "Total Shots": 0.22,
+          "Shots on Target": 0.67,
+          "Possession %": 0.66,
+          "Pass Accuracy": 0.69
+        },
+        "19": {
+          "Goals": 0.95,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.37,
+          "Shots on Target": 0.23,
+          "Possession %": 0.61,
+          "Pass Accuracy": 0.88
+        },
+        "20": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.58,
+          "Total Shots": 0.29,
+          "Shots on Target": 0.24,
+          "Possession %": 0.61,
+          "Pass Accuracy": 0.76
+        },
+        "21": {
+          "Goals": 0.05,
+          "Expected Goals (xG)": 0.12,
+          "Total Shots": 0.31,
+          "Shots on Target": 0.5,
+          "Possession %": 0.77,
+          "Pass Accuracy": 0.76
+        },
+        "22": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.43,
+          "Shots on Target": 0.44,
+          "Possession %": 0.81,
+          "Pass Accuracy": 0.43
+        },
+        "23": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.47,
+          "Total Shots": 0.35,
+          "Shots on Target": 0.33,
+          "Possession %": 0.63,
+          "Pass Accuracy": 0.88
+        },
+        "24": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.55,
+          "Total Shots": 0.45,
+          "Shots on Target": 0.42,
+          "Possession %": 0.66,
+          "Pass Accuracy": 0.69
+        },
+        "25": {
+          "Goals": 0.95,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.22,
+          "Shots on Target": 0.29,
+          "Possession %": 0.7,
+          "Pass Accuracy": 0.76
+        },
+        "26": {
+          "Goals": 0.8,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.5,
+          "Shots on Target": 0.39,
+          "Possession %": 0.95,
+          "Pass Accuracy": 0.82
+        },
+        "27": {
+          "Goals": 0.05,
+          "Expected Goals (xG)": 0.63,
+          "Total Shots": 0.53,
+          "Shots on Target": 0.34,
+          "Possession %": 0.7,
+          "Pass Accuracy": 0.77
+        },
+        "28": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.57,
+          "Total Shots": 0.44,
+          "Shots on Target": 0.46,
+          "Possession %": 0.77,
+          "Pass Accuracy": 0.76
+        },
+        "29": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.58,
+          "Total Shots": 0.51,
+          "Shots on Target": 0.27,
+          "Possession %": 0.81,
+          "Pass Accuracy": 0.89
+        },
+        "30": {
+          "Goals": 0.8,
+          "Expected Goals (xG)": 0.39,
+          "Total Shots": 0.49,
+          "Shots on Target": 0.26,
+          "Possession %": 0.72,
+          "Pass Accuracy": 0.95
+        },
+        "31": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.38,
+          "Shots on Target": 0.17,
+          "Possession %": 0.75,
+          "Pass Accuracy": 0.87
+        },
+        "32": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.45,
+          "Total Shots": 0.05,
+          "Shots on Target": 0.56,
+          "Possession %": 0.36,
+          "Pass Accuracy": 0.57
+        },
+        "33": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.14,
+          "Total Shots": 0.32,
+          "Shots on Target": 0.11,
+          "Possession %": 0.68,
+          "Pass Accuracy": 0.89
+        },
+        "34": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.46,
+          "Total Shots": 0.19,
+          "Shots on Target": 0.62,
+          "Possession %": 0.54,
+          "Pass Accuracy": 0.76
+        }
+      }
+    },
+    "leverkusen": {
+      "name": "Bayer Leverkusen",
+      "season": {
+        "Goals": 0.44,
+        "Expected Goals (xG)": 0.67,
+        "Total Shots": 0.44,
+        "Shots on Target": 0.28,
+        "Possession %": 0.69,
+        "Pass Accuracy": 0.73
+      },
+      "matches": {
+        "1": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.41,
+          "Total Shots": 0.25,
+          "Shots on Target": 0.45,
+          "Possession %": 0.41,
+          "Pass Accuracy": 0.43
+        },
+        "2": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.84,
+          "Total Shots": 0.4,
+          "Shots on Target": 0.24,
+          "Possession %": 0.66,
+          "Pass Accuracy": 0.75
+        },
+        "3": {
+          "Goals": 0.8,
+          "Expected Goals (xG)": 0.94,
+          "Total Shots": 0.51,
+          "Shots on Target": 0.29,
+          "Possession %": 0.88,
+          "Pass Accuracy": 0.89
+        },
+        "4": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.52,
+          "Total Shots": 0.3,
+          "Shots on Target": 0.72,
+          "Possession %": 0.43,
+          "Pass Accuracy": 0.63
+        },
+        "5": {
+          "Goals": 0.65,
+          "Expected Goals (xG)": 0.94,
+          "Total Shots": 0.48,
+          "Shots on Target": 0.08,
+          "Possession %": 0.88,
+          "Pass Accuracy": 0.89
+        },
+        "6": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.28,
+          "Total Shots": 0.12,
+          "Shots on Target": 0.23,
+          "Possession %": 0.63,
+          "Pass Accuracy": 0.62
+        },
+        "7": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.43,
+          "Total Shots": 0.29,
+          "Shots on Target": 0.52,
+          "Possession %": 0.54,
+          "Pass Accuracy": 0.69
+        },
+        "8": {
+          "Goals": 0.65,
+          "Expected Goals (xG)": 0.7,
+          "Total Shots": 0.26,
+          "Shots on Target": 0.07,
+          "Possession %": 0.86,
+          "Pass Accuracy": 0.95
+        },
+        "9": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.34,
+          "Total Shots": 0.31,
+          "Shots on Target": 0.13,
+          "Possession %": 0.61,
+          "Pass Accuracy": 0.56
+        },
+        "10": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.65,
+          "Total Shots": 0.82,
+          "Shots on Target": 0.29,
+          "Possession %": 0.75,
+          "Pass Accuracy": 0.63
+        },
+        "11": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.88,
+          "Total Shots": 0.35,
+          "Shots on Target": 0.85,
+          "Possession %": 0.39,
+          "Pass Accuracy": 0.57
+        },
+        "12": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.78,
+          "Total Shots": 0.32,
+          "Shots on Target": 0.11,
+          "Possession %": 0.68,
+          "Pass Accuracy": 0.7
+        },
+        "13": {
+          "Goals": 0.65,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.29,
+          "Shots on Target": 0.16,
+          "Possession %": 0.79,
+          "Pass Accuracy": 0.69
+        },
+        "14": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.43,
+          "Shots on Target": 0.44,
+          "Possession %": 0.75,
+          "Pass Accuracy": 0.95
+        },
+        "15": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.72,
+          "Total Shots": 0.71,
+          "Shots on Target": 0.08,
+          "Possession %": 0.86,
+          "Pass Accuracy": 0.88
+        },
+        "16": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.77,
+          "Total Shots": 0.42,
+          "Shots on Target": 0.34,
+          "Possession %": 0.63,
+          "Pass Accuracy": 0.82
+        },
+        "17": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.43,
+          "Total Shots": 0.33,
+          "Shots on Target": 0.46,
+          "Possession %": 0.59,
+          "Pass Accuracy": 0.63
+        },
+        "18": {
+          "Goals": 0.05,
+          "Expected Goals (xG)": 0.79,
+          "Total Shots": 0.95,
+          "Shots on Target": 0.1,
+          "Possession %": 0.88,
+          "Pass Accuracy": 0.95
+        },
+        "19": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.69,
+          "Total Shots": 0.49,
+          "Shots on Target": 0.29,
+          "Possession %": 0.88,
+          "Pass Accuracy": 0.89
+        },
+        "20": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.53,
+          "Total Shots": 0.29,
+          "Shots on Target": 0.13,
+          "Possession %": 0.81,
+          "Pass Accuracy": 0.82
+        },
+        "21": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.5,
+          "Total Shots": 0.15,
+          "Shots on Target": 0.12,
+          "Possession %": 0.23,
+          "Pass Accuracy": 0.44
+        },
+        "22": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.61,
+          "Total Shots": 0.31,
+          "Shots on Target": 0.26,
+          "Possession %": 0.63,
+          "Pass Accuracy": 0.43
+        },
+        "23": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.36,
+          "Total Shots": 0.45,
+          "Shots on Target": 0.4,
+          "Possession %": 0.72,
+          "Pass Accuracy": 0.63
+        },
+        "24": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.47,
+          "Total Shots": 0.59,
+          "Shots on Target": 0.19,
+          "Possession %": 0.95,
+          "Pass Accuracy": 0.89
+        },
+        "25": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.63,
+          "Total Shots": 0.85,
+          "Shots on Target": 0.08,
+          "Possession %": 0.95,
+          "Pass Accuracy": 0.95
+        },
+        "26": {
+          "Goals": 0.5,
+          "Expected Goals (xG)": 0.8,
+          "Total Shots": 0.39,
+          "Shots on Target": 0.26,
+          "Possession %": 0.84,
+          "Pass Accuracy": 0.95
+        },
+        "27": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.84,
+          "Shots on Target": 0.21,
+          "Possession %": 0.79,
+          "Pass Accuracy": 0.76
+        },
+        "28": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.82,
+          "Total Shots": 0.55,
+          "Shots on Target": 0.18,
+          "Possession %": 0.77,
+          "Pass Accuracy": 0.95
+        },
+        "29": {
+          "Goals": 0.8,
+          "Expected Goals (xG)": 0.9,
+          "Total Shots": 0.35,
+          "Shots on Target": 0.23,
+          "Possession %": 0.59,
+          "Pass Accuracy": 0.82
+        },
+        "30": {
+          "Goals": 0.2,
+          "Expected Goals (xG)": 0.31,
+          "Total Shots": 0.51,
+          "Shots on Target": 0.29,
+          "Possession %": 0.48,
+          "Pass Accuracy": 0.69
+        },
+        "31": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.39,
+          "Total Shots": 0.42,
+          "Shots on Target": 0.5,
+          "Possession %": 0.39,
+          "Pass Accuracy": 0.12
+        },
+        "32": {
+          "Goals": 0.8,
+          "Expected Goals (xG)": 0.78,
+          "Total Shots": 0.17,
+          "Shots on Target": 0.36,
+          "Possession %": 0.43,
+          "Pass Accuracy": 0.43
+        },
+        "33": {
+          "Goals": 0.8,
+          "Expected Goals (xG)": 0.95,
+          "Total Shots": 0.45,
+          "Shots on Target": 0.09,
+          "Possession %": 0.86,
+          "Pass Accuracy": 0.83
+        },
+        "34": {
+          "Goals": 0.35,
+          "Expected Goals (xG)": 0.79,
+          "Total Shots": 0.53,
+          "Shots on Target": 0.25,
+          "Possession %": 0.77,
+          "Pass Accuracy": 0.95
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,173 @@
+.datatable {
+  height: 37a6px;
+  padding: 2px 5px 5px 5px;
+  width: 100%;
+}
+.datatabletransaction {
+  max-height: 610px;
+  height: 75vh;
+
+  width: 100%;
+}
+
+.datatableTitle {
+  width: 100%;
+  font-size: 24px;
+  color: gray;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.datatableTitle .link {
+  text-decoration: none;
+  color: green;
+  font-size: 16px;
+  font-weight: 400;
+  border: 1px solid green;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cellWithImg {
+  display: flex;
+  align-items: center;
+}
+
+.cellWithImg .cellImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.cellWithStatus {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.cellWithStatus.active {
+  background-color: rgba(0, 128, 0, 0.05);
+  color: green;
+}
+
+.cellWithStatus.pending {
+  background-color: rgba(255, 217, 0, 0.05);
+  color: goldenrod;
+}
+
+.cellWithStatus.passive {
+  background-color: rgba(255, 0, 0, 0.05);
+  color: crimson;
+}
+
+.cellAction {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  gap: 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.viewButton {
+  background-color: rgba(0, 0, 139, 0);
+  /* border: 1px dotted rgba(0, 0, 139, 1); */
+  color: #6700ce;
+  margin: 0;
+  padding: 0;
+  border: none;
+  min-width: 27px;
+}
+
+/* .viewButton p {
+  height: 30px;
+  padding: 0;
+  margin: 0;
+} */
+
+.deleteButton {
+  background-color: rgba(0, 0, 139, 0);
+  /* border: 1px dotted rgba(0, 0, 139, 1); */
+  color: rgb(163, 3, 3);
+  margin: 0;
+  padding: 0;
+  border: none;
+  min-width: 27px;
+}
+
+.datagrid {
+  background-color: rgb(46, 51, 83);
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+}
+
+.hover-icon:hover {
+  font-size: 27px;
+}
+
+.viewButton:hover {
+  background-color: radial-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0));
+
+  font-size: 30px;
+}
+
+.editButton {
+  background-color: rgba(0, 0, 139, 0);
+  /* border: 1px dotted rgba(0, 0, 139, 1); */
+  color: rgb(5, 5, 168);
+  margin: 0;
+  padding: 0;
+  border: none;
+  min-width: 27px;
+}
+
+.editButton:hover {
+  background-color: radial-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0));
+  font-size: 30px;
+}
+
+.mainHeader {
+  background-color: rgb(60, 60, 60);
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.age-row {
+  background-color: aqua;
+  border-color: blue;
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.age-row span {
+  width: 100%;
+  height: 200px;
+  border: 2px solid black;
+  justify-content: center;
+  text-align: center;
+  padding: 0;
+}
+
+.progressBar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  border-radius: 10px;
+  height: 100%;
+}
+
+.progress-bar-bar {
+  border-radius: 10px;
+  height: 13px;
+}

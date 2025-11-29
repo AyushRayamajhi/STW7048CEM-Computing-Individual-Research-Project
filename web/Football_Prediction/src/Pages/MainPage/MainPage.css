@@ -1,0 +1,37 @@
+.MainPage {
+  position: relative;
+  top: 20px;
+  margin: auto;
+  width: 75vw;
+  max-width: 1500px;
+  padding-bottom: 20px;
+}
+
+.Header {
+  position: absolute;
+  top: 20px;
+  left: 20vw;
+  margin: auto;
+  width: 75vw;
+  padding-bottom: 20px;
+}
+
+.Row {
+  height: 650px;
+  display: flex;
+  padding: 10px 0px;
+  gap: 20px;
+}
+
+.Row-1 {
+  height: 750px;
+  display: flex;
+  padding: 10px 0px;
+  gap: 20px;
+}
+
+.CustomerHeader {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}

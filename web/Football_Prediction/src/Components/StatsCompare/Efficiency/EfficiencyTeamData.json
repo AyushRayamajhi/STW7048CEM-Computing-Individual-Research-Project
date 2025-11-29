@@ -1,0 +1,3754 @@
+{
+  "teams": {
+    "leverkusen": {
+      "name": "Bayer 04 Leverkusen",
+      "matches": {
+        "1": {
+          "opponent": "RB Leipzig",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.18,
+              "display": "-0.18",
+              "subLabel": "xG: 1.39  |  xGA: 1.57"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 2.16,
+              "display": "2.16x",
+              "subLabel": "G: 3  |  xG: 1.39"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.33,
+              "display": "0.33",
+              "subLabel": "xG: 1.39  |  Passes: 424"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.84,
+              "display": "84.0%",
+              "subLabel": "Completed: 356  /  Total: 424"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "SoT against: 6  |  Opp. Possession: 54%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.26,
+              "display": "0.26",
+              "subLabel": "xGA: 1.57  |  SoT against: 6"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 4  |  SoT against: 6"
+            }
+          ]
+        },
+        "2": {
+          "opponent": "B. Monchengladbach",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.37,
+              "display": "+2.37",
+              "subLabel": "xG: 3.09  |  xGA: 0.72"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.97,
+              "display": "0.97x",
+              "subLabel": "G: 3  |  xG: 3.09"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.44,
+              "display": "0.44",
+              "subLabel": "xG: 3.09  |  Passes: 706"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.0%",
+              "subLabel": "Completed: 628  /  Total: 706"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 43%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.36,
+              "display": "0.36",
+              "subLabel": "xGA: 0.72  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 2  |  SoT against: 2"
+            }
+          ]
+        },
+        "3": {
+          "opponent": "Darmstadt",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.53,
+              "display": "+2.53",
+              "subLabel": "xG: 3.48  |  xGA: 0.95"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.44,
+              "display": "1.44x",
+              "subLabel": "G: 5  |  xG: 3.48"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.46,
+              "display": "0.46",
+              "subLabel": "xG: 3.48  |  Passes: 760"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.1%",
+              "subLabel": "Completed: 692  /  Total: 760"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 33%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.95,
+              "display": "0.95",
+              "subLabel": "xGA: 0.95  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 1"
+            }
+          ]
+        },
+        "4": {
+          "opponent": "Bayern Munich",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.79,
+              "display": "-0.79",
+              "subLabel": "xG: 1.83  |  xGA: 2.62"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.09,
+              "display": "1.09x",
+              "subLabel": "G: 2  |  xG: 1.83"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.32,
+              "display": "0.32",
+              "subLabel": "xG: 1.83  |  Passes: 565"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.87,
+              "display": "87.1%",
+              "subLabel": "Completed: 492  /  Total: 565"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.17,
+              "display": "0.17",
+              "subLabel": "SoT against: 9  |  Opp. Possession: 53%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.29,
+              "display": "0.29",
+              "subLabel": "xGA: 2.62  |  SoT against: 9"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.78,
+              "display": "78%",
+              "subLabel": "Saves: 7  |  SoT against: 9"
+            }
+          ]
+        },
+        "5": {
+          "opponent": "Heidenheim",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 3.38,
+              "display": "+3.38",
+              "subLabel": "xG: 3.48  |  xGA: 0.10"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.15,
+              "display": "1.15x",
+              "subLabel": "G: 4  |  xG: 3.48"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.43,
+              "display": "0.43",
+              "subLabel": "xG: 3.48  |  Passes: 803"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 731  /  Total: 803"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 33%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.1,
+              "display": "0.10",
+              "subLabel": "xGA: 0.10  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 1"
+            }
+          ]
+        },
+        "6": {
+          "opponent": "Mainz",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.19,
+              "display": "+0.19",
+              "subLabel": "xG: 0.88  |  xGA: 0.69"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 3.41,
+              "display": "3.41x",
+              "subLabel": "G: 3  |  xG: 0.88"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.15,
+              "display": "0.15",
+              "subLabel": "xG: 0.88  |  Passes: 605"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.87,
+              "display": "86.9%",
+              "subLabel": "Completed: 526  /  Total: 605"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 44%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xGA: 0.69  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 3  |  SoT against: 3"
+            }
+          ]
+        },
+        "7": {
+          "opponent": "Hoffenheim",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.36,
+              "display": "-0.36",
+              "subLabel": "xG: 1.46  |  xGA: 1.82"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 2.05,
+              "display": "2.05x",
+              "subLabel": "G: 3  |  xG: 1.46"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.26,
+              "display": "0.26",
+              "subLabel": "xG: 1.46  |  Passes: 564"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "87.9%",
+              "subLabel": "Completed: 496  /  Total: 564"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.15,
+              "display": "0.15",
+              "subLabel": "SoT against: 7  |  Opp. Possession: 48%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.26,
+              "display": "0.26",
+              "subLabel": "xGA: 1.82  |  SoT against: 7"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.71,
+              "display": "71%",
+              "subLabel": "Saves: 5  |  SoT against: 7"
+            }
+          ]
+        },
+        "8": {
+          "opponent": "Union Berlin",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.44,
+              "display": "+2.44",
+              "subLabel": "xG: 2.51  |  xGA: 0.07"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.59,
+              "display": "1.59x",
+              "subLabel": "G: 4  |  xG: 2.51"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.31,
+              "display": "0.31",
+              "subLabel": "xG: 2.51  |  Passes: 813"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 748  /  Total: 813"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.06,
+              "display": "0.06",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 34%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.04,
+              "display": "0.04",
+              "subLabel": "xGA: 0.07  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 2  |  SoT against: 2"
+            }
+          ]
+        },
+        "9": {
+          "opponent": "Werder Bremen",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.8,
+              "display": "+0.80",
+              "subLabel": "xG: 1.11  |  xGA: 0.31"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 2.7,
+              "display": "2.70x",
+              "subLabel": "G: 3  |  xG: 1.11"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.16,
+              "display": "0.16",
+              "subLabel": "xG: 1.11  |  Passes: 690"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.86,
+              "display": "85.9%",
+              "subLabel": "Completed: 593  /  Total: 690"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.02,
+              "display": "0.02",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 45%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.31,
+              "display": "0.31",
+              "subLabel": "xGA: 0.31  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "10": {
+          "opponent": "Dortmund",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.39,
+              "display": "+1.39",
+              "subLabel": "xG: 2.33  |  xGA: 0.94"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.43,
+              "display": "0.43x",
+              "subLabel": "G: 1  |  xG: 2.33"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.35,
+              "display": "0.35",
+              "subLabel": "xG: 2.33  |  Passes: 667"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.87,
+              "display": "87.0%",
+              "subLabel": "Completed: 580  /  Total: 667"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 39%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.47,
+              "display": "0.47",
+              "subLabel": "xGA: 0.94  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.5,
+              "display": "50%",
+              "subLabel": "Saves: 1  |  SoT against: 2"
+            }
+          ]
+        },
+        "11": {
+          "opponent": "Stuttgart",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.12,
+              "display": "+0.12",
+              "subLabel": "xG: 3.22  |  xGA: 3.10"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.31,
+              "display": "0.31x",
+              "subLabel": "G: 1  |  xG: 3.22"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.62,
+              "display": "0.62",
+              "subLabel": "xG: 3.22  |  Passes: 517"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.86,
+              "display": "86.1%",
+              "subLabel": "Completed: 445  /  Total: 517"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.22,
+              "display": "0.22",
+              "subLabel": "SoT against: 12  |  Opp. Possession: 55%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.26,
+              "display": "0.26",
+              "subLabel": "xGA: 3.10  |  SoT against: 12"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.92,
+              "display": "92%",
+              "subLabel": "Saves: 11  |  SoT against: 12"
+            }
+          ]
+        },
+        "12": {
+          "opponent": "Eintracht Frankfurt",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.62,
+              "display": "+2.62",
+              "subLabel": "xG: 2.84  |  xGA: 0.22"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.06,
+              "display": "1.06x",
+              "subLabel": "G: 3  |  xG: 2.84"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.39,
+              "display": "0.39",
+              "subLabel": "xG: 2.84  |  Passes: 736"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 648  /  Total: 736"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 42%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "xGA: 0.22  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 2  |  SoT against: 2"
+            }
+          ]
+        },
+        "13": {
+          "opponent": "Bochum",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 3.41,
+              "display": "+3.41",
+              "subLabel": "xG: 3.82  |  xGA: 0.41"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.05,
+              "display": "1.05x",
+              "subLabel": "G: 4  |  xG: 3.82"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.53,
+              "display": "0.53",
+              "subLabel": "xG: 3.82  |  Passes: 715"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 629  /  Total: 715"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 37%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.41,
+              "display": "0.41",
+              "subLabel": "xGA: 0.41  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "14": {
+          "opponent": "FC Koln",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.52,
+              "display": "+2.52",
+              "subLabel": "xG: 4.02  |  xGA: 1.50"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.75,
+              "display": "0.75x",
+              "subLabel": "G: 3  |  xG: 4.02"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.54,
+              "display": "0.54",
+              "subLabel": "xG: 4.02  |  Passes: 747"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 687  /  Total: 747"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.08,
+              "display": "0.08",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 39%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.5,
+              "display": "0.50",
+              "subLabel": "xGA: 1.50  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 3  |  SoT against: 3"
+            }
+          ]
+        },
+        "15": {
+          "opponent": "Augsburg",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.48,
+              "display": "+2.48",
+              "subLabel": "xG: 2.61  |  xGA: 0.13"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.38,
+              "display": "0.38x",
+              "subLabel": "G: 1  |  xG: 2.61"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.33,
+              "display": "0.33",
+              "subLabel": "xG: 2.61  |  Passes: 787"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 716  /  Total: 787"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.0,
+              "display": "0.00",
+              "subLabel": "SoT against: 0"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0,
+              "display": "0.00",
+              "subLabel": "xGA: 0.13  |  SoT against: 0"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 0"
+            }
+          ]
+        },
+        "16": {
+          "opponent": "RB Leipzig",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.69,
+              "display": "+1.69",
+              "subLabel": "xG: 2.81  |  xGA: 1.12"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.07,
+              "display": "1.07x",
+              "subLabel": "G: 3  |  xG: 2.81"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.44,
+              "display": "0.44",
+              "subLabel": "xG: 2.81  |  Passes: 641"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 577  /  Total: 641"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.14,
+              "display": "0.14",
+              "subLabel": "SoT against: 6  |  Opp. Possession: 44%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.19,
+              "display": "0.19",
+              "subLabel": "xGA: 1.12  |  SoT against: 6"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 4  |  SoT against: 6"
+            }
+          ]
+        },
+        "17": {
+          "opponent": "Wolfsburg",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.1,
+              "display": "-0.10",
+              "subLabel": "xG: 1.49  |  xGA: 1.59"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.34,
+              "display": "1.34x",
+              "subLabel": "G: 2  |  xG: 1.49"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.24,
+              "display": "0.24",
+              "subLabel": "xG: 1.49  |  Passes: 624"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.87,
+              "display": "87.0%",
+              "subLabel": "Completed: 543  /  Total: 624"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.15,
+              "display": "0.15",
+              "subLabel": "SoT against: 7  |  Opp. Possession: 46%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xGA: 1.59  |  SoT against: 7"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.86,
+              "display": "86%",
+              "subLabel": "Saves: 6  |  SoT against: 7"
+            }
+          ]
+        },
+        "18": {
+          "opponent": "B. Monchengladbach",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.66,
+              "display": "+2.66",
+              "subLabel": "xG: 2.87  |  xGA: 0.21"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.0,
+              "display": "0.00x",
+              "subLabel": "G: 0  |  xG: 2.87"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.3,
+              "display": "0.30",
+              "subLabel": "xG: 2.87  |  Passes: 945"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 869  /  Total: 945"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 33%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "xGA: 0.21  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 3  |  SoT against: 3"
+            }
+          ]
+        },
+        "19": {
+          "opponent": "Freiburg",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.55,
+              "display": "+1.55",
+              "subLabel": "xG: 2.49  |  xGA: 0.94"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.8,
+              "display": "0.80x",
+              "subLabel": "G: 2  |  xG: 2.49"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.35,
+              "display": "0.35",
+              "subLabel": "xG: 2.49  |  Passes: 711"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 647  /  Total: 711"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.12,
+              "display": "0.12",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 33%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xGA: 0.94  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.75,
+              "display": "75%",
+              "subLabel": "Saves: 3  |  SoT against: 4"
+            }
+          ]
+        },
+        "20": {
+          "opponent": "Darmstadt",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.55,
+              "display": "+1.55",
+              "subLabel": "xG: 1.88  |  xGA: 0.33"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.06,
+              "display": "1.06x",
+              "subLabel": "G: 2  |  xG: 1.88"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.25,
+              "display": "0.25",
+              "subLabel": "xG: 1.88  |  Passes: 764"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.1%",
+              "subLabel": "Completed: 688  /  Total: 764"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.17,
+              "display": "0.17",
+              "subLabel": "SoT against: 6  |  Opp. Possession: 36%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.06,
+              "display": "0.06",
+              "subLabel": "xGA: 0.33  |  SoT against: 6"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 6  |  SoT against: 6"
+            }
+          ]
+        },
+        "21": {
+          "opponent": "Bayern Munich",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.49,
+              "display": "+1.49",
+              "subLabel": "xG: 1.76  |  xGA: 0.27"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.7,
+              "display": "1.70x",
+              "subLabel": "G: 3  |  xG: 1.76"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.43,
+              "display": "0.43",
+              "subLabel": "xG: 1.76  |  Passes: 409"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.84,
+              "display": "84.1%",
+              "subLabel": "Completed: 344  /  Total: 409"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.02,
+              "display": "0.02",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 62%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.27,
+              "display": "0.27",
+              "subLabel": "xGA: 0.27  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "22": {
+          "opponent": "Heidenheim",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.35,
+              "display": "+1.35",
+              "subLabel": "xG: 2.18  |  xGA: 0.83"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.92,
+              "display": "0.92x",
+              "subLabel": "G: 2  |  xG: 2.18"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.38,
+              "display": "0.38",
+              "subLabel": "xG: 2.18  |  Passes: 567"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.84,
+              "display": "84.0%",
+              "subLabel": "Completed: 476  /  Total: 567"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 44%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.28,
+              "display": "0.28",
+              "subLabel": "xGA: 0.83  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 2  |  SoT against: 3"
+            }
+          ]
+        },
+        "23": {
+          "opponent": "Mainz",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.15,
+              "display": "-0.15",
+              "subLabel": "xG: 1.21  |  xGA: 1.36"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.65,
+              "display": "1.65x",
+              "subLabel": "G: 2  |  xG: 1.21"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.18,
+              "display": "0.18",
+              "subLabel": "xG: 1.21  |  Passes: 664"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.87,
+              "display": "87.0%",
+              "subLabel": "Completed: 578  /  Total: 664"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.1,
+              "display": "0.10",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 40%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.34,
+              "display": "0.34",
+              "subLabel": "xGA: 1.36  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.75,
+              "display": "75%",
+              "subLabel": "Saves: 3  |  SoT against: 4"
+            }
+          ]
+        },
+        "24": {
+          "opponent": "FC Koln",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.11,
+              "display": "+1.11",
+              "subLabel": "xG: 1.65  |  xGA: 0.54"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.21,
+              "display": "1.21x",
+              "subLabel": "G: 2  |  xG: 1.65"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.2,
+              "display": "0.20",
+              "subLabel": "xG: 1.65  |  Passes: 837"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 762  /  Total: 837"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.0,
+              "display": "0.00",
+              "subLabel": "SoT against: 0"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0,
+              "display": "0.00",
+              "subLabel": "xGA: 0.54  |  SoT against: 0"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 0"
+            }
+          ]
+        },
+        "25": {
+          "opponent": "Wolfsburg",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.14,
+              "display": "+2.14",
+              "subLabel": "xG: 2.26  |  xGA: 0.12"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.88,
+              "display": "0.88x",
+              "subLabel": "G: 2  |  xG: 2.26"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.25,
+              "display": "0.25",
+              "subLabel": "xG: 2.26  |  Passes: 889"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.94,
+              "display": "94.0%",
+              "subLabel": "Completed: 836  /  Total: 889"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 30%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.12,
+              "display": "0.12",
+              "subLabel": "xGA: 0.12  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "26": {
+          "opponent": "Freiburg",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.09,
+              "display": "+2.09",
+              "subLabel": "xG: 2.90  |  xGA: 0.81"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.03,
+              "display": "1.03x",
+              "subLabel": "G: 3  |  xG: 2.90"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.39,
+              "display": "0.39",
+              "subLabel": "xG: 2.90  |  Passes: 746"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 686  /  Total: 746"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 35%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.27,
+              "display": "0.27",
+              "subLabel": "xGA: 0.81  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.33,
+              "display": "33%",
+              "subLabel": "Saves: 1  |  SoT against: 3"
+            }
+          ]
+        },
+        "27": {
+          "opponent": "Hoffenheim",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 3.45,
+              "display": "+3.45",
+              "subLabel": "xG: 4.08  |  xGA: 0.63"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.49,
+              "display": "0.49x",
+              "subLabel": "G: 2  |  xG: 4.08"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.57,
+              "display": "0.57",
+              "subLabel": "xG: 4.08  |  Passes: 713"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.1%",
+              "subLabel": "Completed: 635  /  Total: 713"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 37%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.32,
+              "display": "0.32",
+              "subLabel": "xGA: 0.63  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.5,
+              "display": "50%",
+              "subLabel": "Saves: 1  |  SoT against: 2"
+            }
+          ]
+        },
+        "28": {
+          "opponent": "Union Berlin",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.5,
+              "display": "+2.50",
+              "subLabel": "xG: 2.99  |  xGA: 0.49"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.33,
+              "display": "0.33x",
+              "subLabel": "G: 1  |  xG: 2.99"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.45,
+              "display": "0.45",
+              "subLabel": "xG: 2.99  |  Passes: 659"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 606  /  Total: 659"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 38%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.49,
+              "display": "0.49",
+              "subLabel": "xGA: 0.49  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "29": {
+          "opponent": "Werder Bremen",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.59,
+              "display": "+2.59",
+              "subLabel": "xG: 3.29  |  xGA: 0.70"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.52,
+              "display": "1.52x",
+              "subLabel": "G: 5  |  xG: 3.29"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.54,
+              "display": "0.54",
+              "subLabel": "xG: 3.29  |  Passes: 612"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 551  /  Total: 612"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 46%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xGA: 0.70  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 3  |  SoT against: 3"
+            }
+          ]
+        },
+        "30": {
+          "opponent": "Dortmund",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.09,
+              "display": "+0.09",
+              "subLabel": "xG: 1.01  |  xGA: 0.92"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.99,
+              "display": "0.99x",
+              "subLabel": "G: 1  |  xG: 1.01"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.19,
+              "display": "0.19",
+              "subLabel": "xG: 1.01  |  Passes: 526"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 463  /  Total: 526"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.04,
+              "display": "0.04",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 51%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.46,
+              "display": "0.46",
+              "subLabel": "xGA: 0.92  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.5,
+              "display": "50%",
+              "subLabel": "Saves: 1  |  SoT against: 2"
+            }
+          ]
+        },
+        "31": {
+          "opponent": "Stuttgart",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.44,
+              "display": "-0.44",
+              "subLabel": "xG: 1.32  |  xGA: 1.76"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.52,
+              "display": "1.52x",
+              "subLabel": "G: 2  |  xG: 1.32"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.27,
+              "display": "0.27",
+              "subLabel": "xG: 1.32  |  Passes: 488"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.79,
+              "display": "79.1%",
+              "subLabel": "Completed: 386  /  Total: 488"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 55%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.44,
+              "display": "0.44",
+              "subLabel": "xGA: 1.76  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.5,
+              "display": "50%",
+              "subLabel": "Saves: 2  |  SoT against: 4"
+            }
+          ]
+        },
+        "32": {
+          "opponent": "Eintracht Frankfurt",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.61,
+              "display": "+1.61",
+              "subLabel": "xG: 2.83  |  xGA: 1.22"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.77,
+              "display": "1.77x",
+              "subLabel": "G: 5  |  xG: 2.83"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.68,
+              "display": "0.68",
+              "subLabel": "xG: 2.83  |  Passes: 416"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.84,
+              "display": "83.9%",
+              "subLabel": "Completed: 349  /  Total: 416"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "SoT against: 5  |  Opp. Possession: 53%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.24,
+              "display": "0.24",
+              "subLabel": "xGA: 1.22  |  SoT against: 5"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.8,
+              "display": "80%",
+              "subLabel": "Saves: 4  |  SoT against: 5"
+            }
+          ]
+        },
+        "33": {
+          "opponent": "Bochum",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 4.13,
+              "display": "+4.13",
+              "subLabel": "xG: 4.29  |  xGA: 0.16"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.17,
+              "display": "1.17x",
+              "subLabel": "G: 5  |  xG: 4.29"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.7,
+              "display": "0.70",
+              "subLabel": "xG: 4.29  |  Passes: 615"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.1%",
+              "subLabel": "Completed: 554  /  Total: 615"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.0,
+              "display": "0.00",
+              "subLabel": "SoT against: 0"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0,
+              "display": "0.00",
+              "subLabel": "xGA: 0.16  |  SoT against: 0"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 0"
+            }
+          ]
+        },
+        "34": {
+          "opponent": "Augsburg",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.09,
+              "display": "+2.09",
+              "subLabel": "xG: 2.86  |  xGA: 0.77"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.7,
+              "display": "0.70x",
+              "subLabel": "G: 2  |  xG: 2.86"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.39,
+              "display": "0.39",
+              "subLabel": "xG: 2.86  |  Passes: 728"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 670  /  Total: 728"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 38%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.39,
+              "display": "0.39",
+              "subLabel": "xGA: 0.77  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.5,
+              "display": "50%",
+              "subLabel": "Saves: 1  |  SoT against: 2"
+            }
+          ]
+        }
+      }
+    },
+    "bayern": {
+      "name": "Bayern M\u00fcnchen",
+      "matches": {
+        "1": {
+          "opponent": "Werder Bremen",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.05,
+              "display": "+2.05",
+              "subLabel": "xG: 2.62  |  xGA: 0.57"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.53,
+              "display": "1.53x",
+              "subLabel": "G: 4  |  xG: 2.62"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.4,
+              "display": "0.40",
+              "subLabel": "xG: 2.62  |  Passes: 652"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 600  /  Total: 652"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 32%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.57,
+              "display": "0.57",
+              "subLabel": "xGA: 0.57  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "2": {
+          "opponent": "Augsburg",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.91,
+              "display": "+1.91",
+              "subLabel": "xG: 2.83  |  xGA: 0.92"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.06,
+              "display": "1.06x",
+              "subLabel": "G: 3  |  xG: 2.83"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.46,
+              "display": "0.46",
+              "subLabel": "xG: 2.83  |  Passes: 610"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.0%",
+              "subLabel": "Completed: 543  /  Total: 610"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 42%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.46,
+              "display": "0.46",
+              "subLabel": "xGA: 0.92  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.5,
+              "display": "50%",
+              "subLabel": "Saves: 1  |  SoT against: 2"
+            }
+          ]
+        },
+        "3": {
+          "opponent": "B. Monchengladbach",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.76,
+              "display": "+1.76",
+              "subLabel": "xG: 2.21  |  xGA: 0.45"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.9,
+              "display": "0.90x",
+              "subLabel": "G: 2  |  xG: 2.21"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.36,
+              "display": "0.36",
+              "subLabel": "xG: 2.21  |  Passes: 615"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "88.9%",
+              "subLabel": "Completed: 547  /  Total: 615"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.08,
+              "display": "0.08",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 38%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.15,
+              "display": "0.15",
+              "subLabel": "xGA: 0.45  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 2  |  SoT against: 3"
+            }
+          ]
+        },
+        "4": {
+          "opponent": "Bayer Leverkusen",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.79,
+              "display": "+0.79",
+              "subLabel": "xG: 2.62  |  xGA: 1.83"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.76,
+              "display": "0.76x",
+              "subLabel": "G: 2  |  xG: 2.62"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.44,
+              "display": "0.44",
+              "subLabel": "xG: 2.62  |  Passes: 596"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.1%",
+              "subLabel": "Completed: 525  /  Total: 596"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "SoT against: 5  |  Opp. Possession: 47%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.37,
+              "display": "0.37",
+              "subLabel": "xGA: 1.83  |  SoT against: 5"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.6,
+              "display": "60%",
+              "subLabel": "Saves: 3  |  SoT against: 5"
+            }
+          ]
+        },
+        "5": {
+          "opponent": "Bochum",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 5.08,
+              "display": "+5.08",
+              "subLabel": "xG: 5.22  |  xGA: 0.14"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.34,
+              "display": "1.34x",
+              "subLabel": "G: 7  |  xG: 5.22"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.91,
+              "display": "0.91",
+              "subLabel": "xG: 5.22  |  Passes: 571"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.1%",
+              "subLabel": "Completed: 503  /  Total: 571"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 40%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.14,
+              "display": "0.14",
+              "subLabel": "xGA: 0.14  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "6": {
+          "opponent": "RB Leipzig",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.91,
+              "display": "+0.91",
+              "subLabel": "xG: 1.85  |  xGA: 0.94"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.08,
+              "display": "1.08x",
+              "subLabel": "G: 2  |  xG: 1.85"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.27,
+              "display": "0.27",
+              "subLabel": "xG: 1.85  |  Passes: 685"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 603  /  Total: 685"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 37%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.47,
+              "display": "0.47",
+              "subLabel": "xGA: 0.94  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 2"
+            }
+          ]
+        },
+        "7": {
+          "opponent": "Dortmund",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.65,
+              "display": "+2.65",
+              "subLabel": "xG: 3.73  |  xGA: 1.08"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.07,
+              "display": "1.07x",
+              "subLabel": "G: 4  |  xG: 3.73"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.72,
+              "display": "0.72",
+              "subLabel": "xG: 3.73  |  Passes: 521"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 469  /  Total: 521"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.02,
+              "display": "0.02",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 50%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 1.08,
+              "display": "1.08",
+              "subLabel": "xGA: 1.08  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "8": {
+          "opponent": "Heidenheim",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.93,
+              "display": "+0.93",
+              "subLabel": "xG: 2.28  |  xGA: 1.35"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.75,
+              "display": "1.75x",
+              "subLabel": "G: 4  |  xG: 2.28"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.29,
+              "display": "0.29",
+              "subLabel": "xG: 2.28  |  Passes: 787"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 708  /  Total: 787"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.06,
+              "display": "0.06",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 32%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.68,
+              "display": "0.68",
+              "subLabel": "xGA: 1.35  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 2"
+            }
+          ]
+        },
+        "9": {
+          "opponent": "FC Koln",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.66,
+              "display": "+2.66",
+              "subLabel": "xG: 3.13  |  xGA: 0.47"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.32,
+              "display": "0.32x",
+              "subLabel": "G: 1  |  xG: 3.13"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.42,
+              "display": "0.42",
+              "subLabel": "xG: 3.13  |  Passes: 753"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 678  /  Total: 753"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.06,
+              "display": "0.06",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 36%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xGA: 0.47  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 2  |  SoT against: 2"
+            }
+          ]
+        },
+        "10": {
+          "opponent": "Eintracht Frankfurt",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.36,
+              "display": "+0.36",
+              "subLabel": "xG: 1.97  |  xGA: 1.61"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.51,
+              "display": "0.51x",
+              "subLabel": "G: 1  |  xG: 1.97"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.29,
+              "display": "0.29",
+              "subLabel": "xG: 1.97  |  Passes: 678"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 610  /  Total: 678"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.16,
+              "display": "0.16",
+              "subLabel": "SoT against: 6  |  Opp. Possession: 38%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.27,
+              "display": "0.27",
+              "subLabel": "xGA: 1.61  |  SoT against: 6"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.17,
+              "display": "17%",
+              "subLabel": "Saves: 1  |  SoT against: 6"
+            }
+          ]
+        },
+        "11": {
+          "opponent": "Stuttgart",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.7,
+              "display": "+2.70",
+              "subLabel": "xG: 2.88  |  xGA: 0.18"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.04,
+              "display": "1.04x",
+              "subLabel": "G: 3  |  xG: 2.88"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.71,
+              "display": "0.71",
+              "subLabel": "xG: 2.88  |  Passes: 404"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.86,
+              "display": "85.9%",
+              "subLabel": "Completed: 347  /  Total: 404"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 58%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "xGA: 0.18  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 2  |  SoT against: 2"
+            }
+          ]
+        },
+        "12": {
+          "opponent": "Wolfsburg",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.15,
+              "display": "+2.15",
+              "subLabel": "xG: 2.49  |  xGA: 0.34"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.8,
+              "display": "0.80x",
+              "subLabel": "G: 2  |  xG: 2.49"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.38,
+              "display": "0.38",
+              "subLabel": "xG: 2.49  |  Passes: 664"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.1%",
+              "subLabel": "Completed: 598  /  Total: 664"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.1,
+              "display": "0.10",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 41%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "xGA: 0.34  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.75,
+              "display": "75%",
+              "subLabel": "Saves: 3  |  SoT against: 4"
+            }
+          ]
+        },
+        "13": {
+          "opponent": "Freiburg",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.42,
+              "display": "+2.42",
+              "subLabel": "xG: 2.50  |  xGA: 0.08"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.2,
+              "display": "1.20x",
+              "subLabel": "G: 3  |  xG: 2.50"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.32,
+              "display": "0.32",
+              "subLabel": "xG: 2.50  |  Passes: 776"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 706  /  Total: 776"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.0,
+              "display": "0.00",
+              "subLabel": "SoT against: 0"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0,
+              "display": "0.00",
+              "subLabel": "xGA: 0.08  |  SoT against: 0"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0,
+              "display": "0%",
+              "subLabel": "Saves: 0  |  SoT against: 0"
+            }
+          ]
+        },
+        "14": {
+          "opponent": "Hoffenheim",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.86,
+              "display": "+0.86",
+              "subLabel": "xG: 2.31  |  xGA: 1.45"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.3,
+              "display": "1.30x",
+              "subLabel": "G: 3  |  xG: 2.31"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.35,
+              "display": "0.35",
+              "subLabel": "xG: 2.31  |  Passes: 654"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "89.9%",
+              "subLabel": "Completed: 588  /  Total: 654"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.1,
+              "display": "0.10",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 40%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.36,
+              "display": "0.36",
+              "subLabel": "xGA: 1.45  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 4  |  SoT against: 4"
+            }
+          ]
+        },
+        "15": {
+          "opponent": "Werder Bremen",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.98,
+              "display": "+0.98",
+              "subLabel": "xG: 1.48  |  xGA: 0.50"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.0,
+              "display": "0.00x",
+              "subLabel": "G: 0  |  xG: 1.48"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.22,
+              "display": "0.22",
+              "subLabel": "xG: 1.48  |  Passes: 688"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.3%",
+              "subLabel": "Completed: 621  /  Total: 688"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 35%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.17,
+              "display": "0.17",
+              "subLabel": "xGA: 0.50  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 2  |  SoT against: 3"
+            }
+          ]
+        },
+        "16": {
+          "opponent": "Mainz",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.27,
+              "display": "+0.27",
+              "subLabel": "xG: 1.36  |  xGA: 1.09"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 2.21,
+              "display": "2.21x",
+              "subLabel": "G: 3  |  xG: 1.36"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xG: 1.36  |  Passes: 598"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 526  /  Total: 598"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 41%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.36,
+              "display": "0.36",
+              "subLabel": "xGA: 1.09  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 2  |  SoT against: 3"
+            }
+          ]
+        },
+        "17": {
+          "opponent": "Union Berlin",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.32,
+              "display": "+2.32",
+              "subLabel": "xG: 2.83  |  xGA: 0.51"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.35,
+              "display": "0.35x",
+              "subLabel": "G: 1  |  xG: 2.83"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.37,
+              "display": "0.37",
+              "subLabel": "xG: 2.83  |  Passes: 757"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 689  /  Total: 757"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.03,
+              "display": "0.03",
+              "subLabel": "SoT against: 1  |  Opp. Possession: 31%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.51,
+              "display": "0.51",
+              "subLabel": "xGA: 0.51  |  SoT against: 1"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 1  |  SoT against: 1"
+            }
+          ]
+        },
+        "18": {
+          "opponent": "Augsburg",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.38,
+              "display": "+0.38",
+              "subLabel": "xG: 2.79  |  xGA: 2.41"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.08,
+              "display": "1.08x",
+              "subLabel": "G: 3  |  xG: 2.79"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.51,
+              "display": "0.51",
+              "subLabel": "xG: 2.79  |  Passes: 549"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 483  /  Total: 549"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.16,
+              "display": "0.16",
+              "subLabel": "SoT against: 7  |  Opp. Possession: 43%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.34,
+              "display": "0.34",
+              "subLabel": "xGA: 2.41  |  SoT against: 7"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.71,
+              "display": "71%",
+              "subLabel": "Saves: 5  |  SoT against: 7"
+            }
+          ]
+        },
+        "19": {
+          "opponent": "Darmstadt",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 5.12,
+              "display": "+5.12",
+              "subLabel": "xG: 5.81  |  xGA: 0.69"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.38,
+              "display": "1.38x",
+              "subLabel": "G: 8  |  xG: 5.81"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 1.16,
+              "display": "1.16",
+              "subLabel": "xG: 5.81  |  Passes: 499"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 454  /  Total: 499"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 45%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.17,
+              "display": "0.17",
+              "subLabel": "xGA: 0.69  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 4  |  SoT against: 4"
+            }
+          ]
+        },
+        "20": {
+          "opponent": "B. Monchengladbach",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.35,
+              "display": "+1.35",
+              "subLabel": "xG: 2.07  |  xGA: 0.72"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.45,
+              "display": "1.45x",
+              "subLabel": "G: 3  |  xG: 2.07"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.34,
+              "display": "0.34",
+              "subLabel": "xG: 2.07  |  Passes: 604"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.1%",
+              "subLabel": "Completed: 538  /  Total: 604"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.09,
+              "display": "0.09",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 45%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.18,
+              "display": "0.18",
+              "subLabel": "xGA: 0.72  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.75,
+              "display": "75%",
+              "subLabel": "Saves: 3  |  SoT against: 4"
+            }
+          ]
+        },
+        "21": {
+          "opponent": "Bayer Leverkusen",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.49,
+              "display": "-1.49",
+              "subLabel": "xG: 0.27  |  xGA: 1.76"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.0,
+              "display": "0.00x",
+              "subLabel": "G: 0  |  xG: 0.27"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.04,
+              "display": "0.04",
+              "subLabel": "xG: 0.27  |  Passes: 649"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.1%",
+              "subLabel": "Completed: 578  /  Total: 649"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.21,
+              "display": "0.21",
+              "subLabel": "SoT against: 8  |  Opp. Possession: 38%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.22,
+              "display": "0.22",
+              "subLabel": "xGA: 1.76  |  SoT against: 8"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.62,
+              "display": "62%",
+              "subLabel": "Saves: 5  |  SoT against: 8"
+            }
+          ]
+        },
+        "22": {
+          "opponent": "Bochum",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 2.15,
+              "display": "+2.15",
+              "subLabel": "xG: 3.67  |  xGA: 1.52"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.54,
+              "display": "0.54x",
+              "subLabel": "G: 2  |  xG: 3.67"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.61,
+              "display": "0.61",
+              "subLabel": "xG: 3.67  |  Passes: 605"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.84,
+              "display": "84.0%",
+              "subLabel": "Completed: 508  /  Total: 605"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.14,
+              "display": "0.14",
+              "subLabel": "SoT against: 5  |  Opp. Possession: 36%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.3,
+              "display": "0.30",
+              "subLabel": "xGA: 1.52  |  SoT against: 5"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.4,
+              "display": "40%",
+              "subLabel": "Saves: 2  |  SoT against: 5"
+            }
+          ]
+        },
+        "23": {
+          "opponent": "RB Leipzig",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.56,
+              "display": "+0.56",
+              "subLabel": "xG: 1.65  |  xGA: 1.09"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.21,
+              "display": "1.21x",
+              "subLabel": "G: 2  |  xG: 1.65"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.28,
+              "display": "0.28",
+              "subLabel": "xG: 1.65  |  Passes: 599"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 545  /  Total: 599"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "SoT against: 5  |  Opp. Possession: 44%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.22,
+              "display": "0.22",
+              "subLabel": "xGA: 1.09  |  SoT against: 5"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.8,
+              "display": "80%",
+              "subLabel": "Saves: 4  |  SoT against: 5"
+            }
+          ]
+        },
+        "24": {
+          "opponent": "Freiburg",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.51,
+              "display": "+0.51",
+              "subLabel": "xG: 1.93  |  xGA: 1.42"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.04,
+              "display": "1.04x",
+              "subLabel": "G: 2  |  xG: 1.93"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.31,
+              "display": "0.31",
+              "subLabel": "xG: 1.93  |  Passes: 625"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.88,
+              "display": "88.0%",
+              "subLabel": "Completed: 550  /  Total: 625"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.14,
+              "display": "0.14",
+              "subLabel": "SoT against: 6  |  Opp. Possession: 43%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.24,
+              "display": "0.24",
+              "subLabel": "xGA: 1.42  |  SoT against: 6"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 4  |  SoT against: 6"
+            }
+          ]
+        },
+        "25": {
+          "opponent": "Mainz",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 5.64,
+              "display": "+5.64",
+              "subLabel": "xG: 6.59  |  xGA: 0.95"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.21,
+              "display": "1.21x",
+              "subLabel": "G: 8  |  xG: 6.59"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 1.13,
+              "display": "1.13",
+              "subLabel": "xG: 6.59  |  Passes: 581"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.0%",
+              "subLabel": "Completed: 517  /  Total: 581"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.07,
+              "display": "0.07",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 41%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.32,
+              "display": "0.32",
+              "subLabel": "xGA: 0.95  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 2  |  SoT against: 3"
+            }
+          ]
+        },
+        "26": {
+          "opponent": "Darmstadt",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 3.11,
+              "display": "+3.11",
+              "subLabel": "xG: 4.42  |  xGA: 1.31"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.13,
+              "display": "1.13x",
+              "subLabel": "G: 5  |  xG: 4.42"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.63,
+              "display": "0.63",
+              "subLabel": "xG: 4.42  |  Passes: 697"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.9,
+              "display": "90.0%",
+              "subLabel": "Completed: 627  /  Total: 697"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 28%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.44,
+              "display": "0.44",
+              "subLabel": "xGA: 1.31  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.33,
+              "display": "33%",
+              "subLabel": "Saves: 1  |  SoT against: 3"
+            }
+          ]
+        },
+        "27": {
+          "opponent": "Dortmund",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.13,
+              "display": "+1.13",
+              "subLabel": "xG: 2.26  |  xGA: 1.13"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.0,
+              "display": "0.00x",
+              "subLabel": "G: 0  |  xG: 2.26"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.35,
+              "display": "0.35",
+              "subLabel": "xG: 2.26  |  Passes: 639"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.2%",
+              "subLabel": "Completed: 570  /  Total: 639"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.12,
+              "display": "0.12",
+              "subLabel": "SoT against: 5  |  Opp. Possession: 41%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.23,
+              "display": "0.23",
+              "subLabel": "xGA: 1.13  |  SoT against: 5"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.6,
+              "display": "60%",
+              "subLabel": "Saves: 3  |  SoT against: 5"
+            }
+          ]
+        },
+        "28": {
+          "opponent": "Heidenheim",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.44,
+              "display": "+0.44",
+              "subLabel": "xG: 2.03  |  xGA: 1.59"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.99,
+              "display": "0.99x",
+              "subLabel": "G: 2  |  xG: 2.03"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.31,
+              "display": "0.31",
+              "subLabel": "xG: 2.03  |  Passes: 656"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.0%",
+              "subLabel": "Completed: 584  /  Total: 656"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 38%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.4,
+              "display": "0.40",
+              "subLabel": "xGA: 1.59  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.25,
+              "display": "25%",
+              "subLabel": "Saves: 1  |  SoT against: 4"
+            }
+          ]
+        },
+        "29": {
+          "opponent": "FC Koln",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 1.24,
+              "display": "+1.24",
+              "subLabel": "xG: 2.08  |  xGA: 0.84"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.96,
+              "display": "0.96x",
+              "subLabel": "G: 2  |  xG: 2.08"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.31,
+              "display": "0.31",
+              "subLabel": "xG: 2.08  |  Passes: 668"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 608  /  Total: 668"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.14,
+              "display": "0.14",
+              "subLabel": "SoT against: 5  |  Opp. Possession: 36%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.17,
+              "display": "0.17",
+              "subLabel": "xGA: 0.84  |  SoT against: 5"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 5  |  SoT against: 5"
+            }
+          ]
+        },
+        "30": {
+          "opponent": "Union Berlin",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.49,
+              "display": "+0.49",
+              "subLabel": "xG: 1.32  |  xGA: 0.83"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 3.79,
+              "display": "3.79x",
+              "subLabel": "G: 5  |  xG: 1.32"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.18,
+              "display": "0.18",
+              "subLabel": "xG: 1.32  |  Passes: 723"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.92,
+              "display": "92.0%",
+              "subLabel": "Completed: 665  /  Total: 723"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.1,
+              "display": "0.10",
+              "subLabel": "SoT against: 4  |  Opp. Possession: 40%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.21,
+              "display": "0.21",
+              "subLabel": "xGA: 0.83  |  SoT against: 4"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.75,
+              "display": "75%",
+              "subLabel": "Saves: 3  |  SoT against: 4"
+            }
+          ]
+        },
+        "31": {
+          "opponent": "Eintracht Frankfurt",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 3.36,
+              "display": "+3.36",
+              "subLabel": "xG: 3.82  |  xGA: 0.46"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.52,
+              "display": "0.52x",
+              "subLabel": "G: 2  |  xG: 3.82"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.57,
+              "display": "0.57",
+              "subLabel": "xG: 3.82  |  Passes: 673"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "90.8%",
+              "subLabel": "Completed: 611  /  Total: 673"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.08,
+              "display": "0.08",
+              "subLabel": "SoT against: 3  |  Opp. Possession: 39%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.15,
+              "display": "0.15",
+              "subLabel": "xGA: 0.46  |  SoT against: 3"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.67,
+              "display": "67%",
+              "subLabel": "Saves: 2  |  SoT against: 3"
+            }
+          ]
+        },
+        "32": {
+          "opponent": "Stuttgart",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.41,
+              "display": "-0.41",
+              "subLabel": "xG: 1.56  |  xGA: 1.97"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 0.64,
+              "display": "0.64x",
+              "subLabel": "G: 1  |  xG: 1.56"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.37,
+              "display": "0.37",
+              "subLabel": "xG: 1.56  |  Passes: 424"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.86,
+              "display": "86.1%",
+              "subLabel": "Completed: 365  /  Total: 424"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.2,
+              "display": "0.20",
+              "subLabel": "SoT against: 11  |  Opp. Possession: 56%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.18,
+              "display": "0.18",
+              "subLabel": "xGA: 1.97  |  SoT against: 11"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.73,
+              "display": "73%",
+              "subLabel": "Saves: 8  |  SoT against: 11"
+            }
+          ]
+        },
+        "33": {
+          "opponent": "Wolfsburg",
+          "venue": "Home",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.13,
+              "display": "+0.13",
+              "subLabel": "xG: 0.35  |  xGA: 0.22"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 5.71,
+              "display": "5.71x",
+              "subLabel": "G: 2  |  xG: 0.35"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "xG: 0.35  |  Passes: 744"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.91,
+              "display": "91.0%",
+              "subLabel": "Completed: 677  /  Total: 744"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.05,
+              "display": "0.05",
+              "subLabel": "SoT against: 2  |  Opp. Possession: 42%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.11,
+              "display": "0.11",
+              "subLabel": "xGA: 0.22  |  SoT against: 2"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 1.0,
+              "display": "100%",
+              "subLabel": "Saves: 2  |  SoT against: 2"
+            }
+          ]
+        },
+        "34": {
+          "opponent": "Hoffenheim",
+          "venue": "Away",
+          "metrics": [
+            {
+              "id": "netChance",
+              "label": "NET CHANCE QUALITY (XG - XGA)",
+              "value": 0.62,
+              "display": "-0.62",
+              "subLabel": "xG: 1.59  |  xGA: 2.21"
+            },
+            {
+              "id": "goalConv",
+              "label": "GOAL CONVERSION (G/XG)",
+              "value": 1.26,
+              "display": "1.26x",
+              "subLabel": "G: 2  |  xG: 1.59"
+            },
+            {
+              "id": "xgPer100Passes",
+              "label": "XG PER 100 PASSES",
+              "value": 0.31,
+              "display": "0.31",
+              "subLabel": "xG: 1.59  |  Passes: 509"
+            },
+            {
+              "id": "passEff",
+              "label": "PASS EFFICIENCY (COMPLETION %)",
+              "value": 0.89,
+              "display": "89.0%",
+              "subLabel": "Completed: 453  /  Total: 509"
+            },
+            {
+              "id": "sotPerOppPoss",
+              "label": "SOT CONCEDED PER 1% OPP. POSS",
+              "value": 0.19,
+              "display": "0.19",
+              "subLabel": "SoT against: 9  |  Opp. Possession: 48%"
+            },
+            {
+              "id": "xgaPerSot",
+              "label": "XGA PER SOT CONCEDED",
+              "value": 0.25,
+              "display": "0.25",
+              "subLabel": "xGA: 2.21  |  SoT against: 9"
+            },
+            {
+              "id": "savePct",
+              "label": "SAVE PERCENTAGE",
+              "value": 0.56,
+              "display": "56%",
+              "subLabel": "Saves: 5  |  SoT against: 9"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

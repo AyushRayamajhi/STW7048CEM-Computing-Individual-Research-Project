@@ -1,0 +1,12 @@
+{
+  "teams": {
+    "leverkusen": {
+      "name": "Bayer 04 Leverkusen",
+      "matches": {}
+    },
+    "bayern": {
+      "name": "Bayern M\u00fcnchen",
+      "matches": {}
+    }
+  }
+}
